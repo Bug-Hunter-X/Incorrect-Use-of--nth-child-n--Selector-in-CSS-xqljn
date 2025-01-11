@@ -1,0 +1,7 @@
+/* bugSolution.css */
+li:nth-child(even) {
+  background-color: #f0f0f0; /* Correctly styles every other list item */
+}
+li:nth-child(odd) {
+  background-color: #fff;
+}
