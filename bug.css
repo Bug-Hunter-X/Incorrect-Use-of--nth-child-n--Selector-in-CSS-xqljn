@@ -1,0 +1,1 @@
+The CSS rule `:nth-child(n)` selector was used incorrectly to select every other element, resulting in unexpected styling. This can happen due to confusion between the index and the visual order of elements.
